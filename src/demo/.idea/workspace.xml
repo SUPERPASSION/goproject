@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d0a31e-16a1-40d7-8cb4-77c3907c0fdc" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use-package/main/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointer/ptr-test1.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointer/ptr-test1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.go" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1aKeJuj6oGMwRnDbXAg0N5LAhty" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -52,10 +54,15 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Tyler/blibli-go" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
-  <component name="RunManager" selected="Go Build.go build demo/pointer">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goproject\src\demo\use-package" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo/use-package/main">
     <configuration name="go build basictype2string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -83,6 +90,15 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build demo/use-package/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/use-package/main/main.go" />
+      <package value="demo/use-package/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -92,29 +108,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build var2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/var2.go" />
-      <package value="demo" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Go Build.go build var2.go" />
       <item itemvalue="Go Build.go build basictype2string.go" />
       <item itemvalue="Go Build.go build demo" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build demo/pointer" />
+      <item itemvalue="Go Build.go build demo/use-package/main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build demo/use-package/main" />
         <item itemvalue="Go Build.go build demo/pointer" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build demo" />
         <item itemvalue="Go Build.go build basictype2string.go" />
-        <item itemvalue="Go Build.go build var2.go" />
       </list>
     </recent_temporary>
   </component>
@@ -148,34 +155,39 @@
       <screen x="-1440" y="0" width="1257" height="755" />
     </state>
     <state x="-766" y="16" key="#go_build_string.go/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586571756070" />
-    <state x="420" y="466" key="FileChooserDialogImpl" timestamp="1586498580014">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state x="-1252" y="193" key="FileChooserDialogImpl" timestamp="1586691054349">
+      <screen x="-1440" y="-568" width="1440" height="2530" />
     </state>
+    <state x="-1252" y="193" key="FileChooserDialogImpl/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691054349" />
     <state x="420" y="466" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1586498580014" />
-    <state width="1632" height="209" key="GridCell.Tab.0.bottom" timestamp="1586587415606">
-      <screen x="0" y="0" width="1676" height="913" />
+    <state width="2517" height="619" key="GridCell.Tab.0.bottom" timestamp="1586692410741">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="209" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586587415606" />
-    <state width="1234" height="319" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1586530480928" />
-    <state width="1632" height="209" key="GridCell.Tab.0.center" timestamp="1586587415606">
-      <screen x="0" y="0" width="1676" height="913" />
+    <state width="1397" height="619" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
+    <state width="2517" height="619" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
+    <state width="2517" height="619" key="GridCell.Tab.0.center" timestamp="1586692410741">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="209" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586587415606" />
-    <state width="1234" height="319" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1586530480928" />
-    <state width="1632" height="209" key="GridCell.Tab.0.left" timestamp="1586587415606">
-      <screen x="0" y="0" width="1676" height="913" />
+    <state width="1397" height="619" key="GridCell.Tab.0.center/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
+    <state width="2517" height="619" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
+    <state width="2517" height="619" key="GridCell.Tab.0.left" timestamp="1586692410741">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="209" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586587415606" />
-    <state width="1234" height="319" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1586530480928" />
-    <state width="1632" height="209" key="GridCell.Tab.0.right" timestamp="1586587415606">
-      <screen x="0" y="0" width="1676" height="913" />
+    <state width="1397" height="619" key="GridCell.Tab.0.left/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
+    <state width="2517" height="619" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
+    <state width="2517" height="619" key="GridCell.Tab.0.right" timestamp="1586692410741">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="209" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586587415606" />
-    <state width="1234" height="319" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1586530480928" />
+    <state width="1397" height="619" key="GridCell.Tab.0.right/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
+    <state width="2517" height="619" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1586513284177">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -196,10 +208,11 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="69" y="332" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1586488668184" />
-    <state x="-1288" y="172" width="672" height="364" key="search.everywhere.popup" timestamp="1586578760640">
-      <screen x="-1440" y="0" width="1257" height="755" />
+    <state x="-1266" y="8" width="770" height="1220" key="search.everywhere.popup" timestamp="1586690972803">
+      <screen x="-1440" y="-568" width="1440" height="2530" />
     </state>
     <state x="-1288" y="172" width="672" height="364" key="search.everywhere.popup/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586578760640" />
+    <state x="-1266" y="8" width="770" height="1220" key="search.everywhere.popup/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586690972803" />
     <state x="310" y="321" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1586513235837" />
   </component>
 </project>
