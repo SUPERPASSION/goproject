@@ -52,74 +52,76 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cal/fuzhi/test02.go" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goproject\src\demo\cal\test02" />
+      <recent name="D:\goproject\src\demo\cal" />
       <recent name="D:\goproject\src\demo\use-package" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build demo/cal/demo03">
-    <configuration name="go build demo/cal/demo02" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build demo/cal/input">
+    <configuration name="go build demo/cal/fuzhi (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/cal/demo02/main.go" />
-      <package value="demo/cal/demo02" />
+      <filePath value="$PROJECT_DIR$/cal/fuzhi/test02.go" />
+      <package value="demo/cal/fuzhi" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo/cal/demo03" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/cal/demo03/main.go" />
-      <package value="demo/cal/demo03" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build demo/pointer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo/cal/fuzhi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/pointer/ptr-test1.go" />
-      <package value="demo/pointer" />
+      <filePath value="$PROJECT_DIR$/cal/fuzhi/fuzhi.go|$PROJECT_DIR$/cal/fuzhi/fuzhi.go|$PROJECT_DIR$/cal/fuzhi/test02.go" />
+      <package value="demo/cal/fuzhi" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo/use-package/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo/cal/input" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/use-package/main/main.go" />
-      <package value="demo/use-package/main" />
+      <filePath value="$PROJECT_DIR$/cal/input/input.go" />
+      <package value="demo/cal/input" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo/cal/test02" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cal/test02/test02.go" />
+      <package value="demo/cal/test02" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build logic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/cal/demo01/main.go" />
+      <filePath value="$PROJECT_DIR$/cal/logic/logic.go" />
       <package value="demo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build demo/pointer" />
-      <item itemvalue="Go Build.go build demo/use-package/main" />
-      <item itemvalue="Go Build.go build main.go (1)" />
-      <item itemvalue="Go Build.go build demo/cal/demo02" />
-      <item itemvalue="Go Build.go build demo/cal/demo03" />
+      <item itemvalue="Go Build.go build logic.go" />
+      <item itemvalue="Go Build.go build demo/cal/fuzhi" />
+      <item itemvalue="Go Build.go build demo/cal/fuzhi (1)" />
+      <item itemvalue="Go Build.go build demo/cal/test02" />
+      <item itemvalue="Go Build.go build demo/cal/input" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build demo/cal/demo03" />
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build demo/cal/demo02" />
-        <item itemvalue="Go Build.go build demo/use-package/main" />
-        <item itemvalue="Go Build.go build demo/pointer" />
+        <item itemvalue="Go Build.go build demo/cal/input" />
+        <item itemvalue="Go Build.go build demo/cal/test02" />
+        <item itemvalue="Go Build.go build demo/cal/fuzhi (1)" />
+        <item itemvalue="Go Build.go build demo/cal/fuzhi" />
+        <item itemvalue="Go Build.go build logic.go" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +143,18 @@
     </state>
     <state x="-1261" y="23" key="#go_build_demo/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586580491385" />
     <state x="365" y="367" key="#go_build_demo/0.0.2560.1410@0.0.2560.1410" timestamp="1586498608443" />
+    <state x="570" y="90" key="#go_build_demo/cal/demo03" timestamp="1586748907838">
+      <screen x="0" y="0" width="1676" height="913" />
+    </state>
+    <state x="570" y="90" key="#go_build_demo/cal/demo03/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586748907838" />
+    <state x="570" y="90" key="#go_build_demo/cal/fuzhi" timestamp="1586763847713">
+      <screen x="0" y="0" width="1676" height="913" />
+    </state>
+    <state x="570" y="90" key="#go_build_demo/cal/fuzhi/0.0.1676.913@0.0.1676.913" timestamp="1586763847713" />
+    <state x="570" y="90" key="#go_build_demo/cal/fuzhi_(1)" timestamp="1586763874144">
+      <screen x="0" y="0" width="1676" height="913" />
+    </state>
+    <state x="570" y="90" key="#go_build_demo/cal/fuzhi_(1)/0.0.1676.913@0.0.1676.913" timestamp="1586763874144" />
     <state x="-1080" y="11" key="#go_build_demo/pointer" timestamp="1586584398268">
       <screen x="-1440" y="0" width="1257" height="755" />
     </state>
@@ -149,41 +163,50 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="365" y="377" key="#go_build_demo_var.go/0.0.2560.1410@0.0.2560.1410" timestamp="1586498586654" />
+    <state x="570" y="91" key="#go_build_logic.go" timestamp="1586757492035">
+      <screen x="0" y="0" width="1676" height="913" />
+    </state>
+    <state x="570" y="91" key="#go_build_logic.go/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586757492035" />
     <state x="-766" y="16" key="#go_build_string.go" timestamp="1586571756070">
       <screen x="-1440" y="0" width="1257" height="755" />
     </state>
     <state x="-766" y="16" key="#go_build_string.go/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586571756070" />
-    <state x="-1252" y="193" key="FileChooserDialogImpl" timestamp="1586691054349">
-      <screen x="-1440" y="-568" width="1440" height="2530" />
+    <state x="219" y="275" key="FileChooserDialogImpl" timestamp="1586763846770">
+      <screen x="0" y="0" width="1676" height="913" />
     </state>
+    <state x="219" y="275" key="FileChooserDialogImpl/0.0.1676.913@0.0.1676.913" timestamp="1586763846770" />
     <state x="-1252" y="193" key="FileChooserDialogImpl/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691054349" />
     <state x="420" y="466" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1586498580014" />
-    <state width="1632" height="209" key="GridCell.Tab.0.bottom" timestamp="1586747274574">
+    <state width="1632" height="209" key="GridCell.Tab.0.bottom" timestamp="1586766946145">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
-    <state width="1632" height="209" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586747274574" />
+    <state width="1632" height="209" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586766946145" />
+    <state width="1632" height="209" key="GridCell.Tab.0.bottom/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
     <state width="1397" height="619" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1632" height="209" key="GridCell.Tab.0.center" timestamp="1586747274574">
+    <state width="1632" height="209" key="GridCell.Tab.0.center" timestamp="1586766946145">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
-    <state width="1632" height="209" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586747274574" />
+    <state width="1632" height="209" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586766946145" />
+    <state width="1632" height="209" key="GridCell.Tab.0.center/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
     <state width="1397" height="619" key="GridCell.Tab.0.center/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1632" height="209" key="GridCell.Tab.0.left" timestamp="1586747274573">
+    <state width="1632" height="209" key="GridCell.Tab.0.left" timestamp="1586766946145">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
-    <state width="1632" height="209" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586747274573" />
+    <state width="1632" height="209" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586766946145" />
+    <state width="1632" height="209" key="GridCell.Tab.0.left/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
     <state width="1397" height="619" key="GridCell.Tab.0.left/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1632" height="209" key="GridCell.Tab.0.right" timestamp="1586747274574">
+    <state width="1632" height="209" key="GridCell.Tab.0.right" timestamp="1586766946145">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
-    <state width="1632" height="209" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586747274574" />
+    <state width="1632" height="209" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1586766946145" />
+    <state width="1632" height="209" key="GridCell.Tab.0.right/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
     <state width="1397" height="619" key="GridCell.Tab.0.right/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1586513284177">
