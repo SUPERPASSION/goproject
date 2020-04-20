@@ -69,31 +69,18 @@
       <recent name="D:\goproject\src\demo\use-package" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Go Build.go build demo/for/for (5)">
     <configuration name="go build demo/for/for (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Go Build.go build demo/for/for">
+    <configuration name="go build 99chengfa.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+>>>>>>> 69861dd73259ed1e557ef1a2fa25973ede7641d4
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/for/for/for-range-test01.go" />
-      <package value="demo/for/for" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build demo/for/for (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/for/for/for-range-test02.go" />
-      <package value="demo/for/for" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build demo/for/for (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/for/for/fake-while.go" />
-      <package value="demo/for/for" />
+      <filePath value="$PROJECT_DIR$/for/for/99chengfa.go" />
+      <package value="demo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -106,16 +93,44 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build demo/for/for" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/for/for/if-for-test01.go" />
+      <package value="demo/for/for" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build for-in-for-test01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/for/for/for-in-for-test01.go" />
+      <package value="demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
     <configuration name="go build demo/for/for (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/for/for/gaozong.go" />
       <package value="demo/for/for" />
+=======
+    <configuration name="go build jinzita.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/for/for/jinzita.go" />
+      <package value="demo" />
+>>>>>>> 69861dd73259ed1e557ef1a2fa25973ede7641d4
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Go Build.go build demo/for/for (1)" />
       <item itemvalue="Go Build.go build demo/for/for (2)" />
       <item itemvalue="Go Build.go build demo/for/for (3)" />
@@ -129,6 +144,21 @@
         <item itemvalue="Go Build.go build demo/for/for (3)" />
         <item itemvalue="Go Build.go build demo/for/for (2)" />
         <item itemvalue="Go Build.go build demo/for/for (1)" />
+=======
+      <item itemvalue="Go Build.go build demo/for/for (4)" />
+      <item itemvalue="Go Build.go build for-in-for-test01.go" />
+      <item itemvalue="Go Build.go build jinzita.go" />
+      <item itemvalue="Go Build.go build 99chengfa.go" />
+      <item itemvalue="Go Build.go build demo/for/for" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo/for/for" />
+        <item itemvalue="Go Build.go build 99chengfa.go" />
+        <item itemvalue="Go Build.go build jinzita.go" />
+        <item itemvalue="Go Build.go build for-in-for-test01.go" />
+        <item itemvalue="Go Build.go build demo/for/for (4)" />
+>>>>>>> 69861dd73259ed1e557ef1a2fa25973ede7641d4
       </list>
     </recent_temporary>
   </component>
@@ -162,10 +192,11 @@
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state x="570" y="90" key="#go_build_demo/cal/fuzhi_(1)/0.0.1676.913@0.0.1676.913" timestamp="1586763874144" />
-    <state x="570" y="90" key="#go_build_demo/for/for" timestamp="1587109021242">
-      <screen x="0" y="0" width="1676" height="913" />
+    <state x="871" y="139" key="#go_build_demo/for/for" timestamp="1587282490564">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="570" y="90" key="#go_build_demo/for/for/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587109021242" />
+    <state x="871" y="139" key="#go_build_demo/for/for/0.0.2560.1410@0.0.2560.1410" timestamp="1587282490564" />
     <state x="570" y="90" key="#go_build_demo/for/for_(1)" timestamp="1587110060897">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
@@ -253,6 +284,7 @@
     <state x="219" y="275" key="FileChooserDialogImpl/0.0.1676.913@0.0.1676.913" timestamp="1586763846770" />
     <state x="-1252" y="193" key="FileChooserDialogImpl/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691054349" />
     <state x="420" y="466" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1586498580014" />
+<<<<<<< HEAD
     <state width="1632" height="297" key="GridCell.Tab.0.bottom" timestamp="1587346575229">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
@@ -287,6 +319,42 @@
     <state width="2517" height="619" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
     <state width="1632" height="297" key="GridCell.Tab.1.bottom" timestamp="1587346575230">
       <screen x="0" y="0" width="1676" height="913" />
+=======
+    <state width="2517" height="865" key="GridCell.Tab.0.bottom" timestamp="1587284932109">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1213" height="163" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
+    <state width="1632" height="210" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989880" />
+    <state width="1632" height="209" key="GridCell.Tab.0.bottom/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1397" height="866" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1587271242023" />
+    <state width="2517" height="865" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1587284932109" />
+    <state width="2517" height="865" key="GridCell.Tab.0.center" timestamp="1587284932109">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1213" height="163" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
+    <state width="1632" height="210" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989879" />
+    <state width="1632" height="209" key="GridCell.Tab.0.center/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1397" height="866" key="GridCell.Tab.0.center/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1587271242023" />
+    <state width="2517" height="865" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1587284932109" />
+    <state width="2517" height="865" key="GridCell.Tab.0.left" timestamp="1587284932109">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1213" height="163" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
+    <state width="1632" height="210" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989879" />
+    <state width="1632" height="209" key="GridCell.Tab.0.left/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1397" height="866" key="GridCell.Tab.0.left/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1587271242023" />
+    <state width="2517" height="865" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1587284932109" />
+    <state width="2517" height="865" key="GridCell.Tab.0.right" timestamp="1587284932109">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1213" height="163" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
+    <state width="1632" height="210" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989879" />
+    <state width="1632" height="209" key="GridCell.Tab.0.right/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1397" height="866" key="GridCell.Tab.0.right/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1587271242023" />
+    <state width="2517" height="865" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1587284932109" />
+    <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1586513284177">
+      <screen x="0" y="0" width="2560" height="1410" />
+>>>>>>> 69861dd73259ed1e557ef1a2fa25973ede7641d4
     </state>
     <state width="1632" height="297" key="GridCell.Tab.1.bottom/0.0.1676.913@0.0.1676.913" timestamp="1587346575230" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1586513284177" />
@@ -314,12 +382,16 @@
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state x="429" y="189" key="Vcs.Push.Dialog.v2/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587093281969" />
-    <state x="203" y="208" width="897" height="441" key="search.everywhere.popup" timestamp="1587115891752">
-      <screen x="0" y="0" width="1676" height="913" />
+    <state x="-1385" y="-564" width="1129" height="1005" key="dock-window-1" timestamp="1587270458380">
+      <screen x="-1440" y="-568" width="1440" height="2530" />
+    </state>
+    <state x="-1385" y="-564" width="1129" height="1005" key="dock-window-1/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1587270458380" />
+    <state x="310" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1587283820109">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="-1288" y="172" width="672" height="364" key="search.everywhere.popup/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586578760640" />
     <state x="203" y="208" width="897" height="441" key="search.everywhere.popup/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115891752" />
-    <state x="-1266" y="8" width="770" height="1220" key="search.everywhere.popup/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586690972803" />
-    <state x="310" y="321" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1586513235837" />
+    <state x="-1266" y="8" width="770" height="1220" key="search.everywhere.popup/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1587270314389" />
+    <state x="310" y="321" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1587283820109" />
   </component>
 </project>
