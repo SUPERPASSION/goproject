@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65d0a31e-16a1-40d7-8cb4-77c3907c0fdc" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for/for/for-in-for.go" beforeDir="false" afterPath="$PROJECT_DIR$/for/for/for-in-for.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <recent name="D:\goproject\src\demo\use-package" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build demo/for/for (4)">
+  <component name="RunManager" selected="Go Build.go build demo/for/for (5)">
     <configuration name="go build demo/for/for (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -105,29 +106,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo/for/for" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo/for/for (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/for/for/for-range02.go" />
+      <filePath value="$PROJECT_DIR$/for/for/gaozong.go" />
       <package value="demo/for/for" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build demo/for/for" />
       <item itemvalue="Go Build.go build demo/for/for (1)" />
       <item itemvalue="Go Build.go build demo/for/for (2)" />
       <item itemvalue="Go Build.go build demo/for/for (3)" />
       <item itemvalue="Go Build.go build demo/for/for (4)" />
+      <item itemvalue="Go Build.go build demo/for/for (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build demo/for/for (5)" />
         <item itemvalue="Go Build.go build demo/for/for (4)" />
         <item itemvalue="Go Build.go build demo/for/for (3)" />
         <item itemvalue="Go Build.go build demo/for/for (2)" />
         <item itemvalue="Go Build.go build demo/for/for (1)" />
-        <item itemvalue="Go Build.go build demo/for/for" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +182,10 @@
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state x="570" y="90" key="#go_build_demo/for/for_(4)/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587114041671" />
+    <state x="570" y="90" key="#go_build_demo/for/for_(5)" timestamp="1587193414616">
+      <screen x="0" y="0" width="1676" height="913" />
+    </state>
+    <state x="570" y="90" key="#go_build_demo/for/for_(5)/0.0.1676.913@0.0.1676.913" timestamp="1587193414616" />
     <state x="570" y="90" key="#go_build_demo/if-for-while/if-else-multi" timestamp="1587090715478">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
@@ -248,53 +253,57 @@
     <state x="219" y="275" key="FileChooserDialogImpl/0.0.1676.913@0.0.1676.913" timestamp="1586763846770" />
     <state x="-1252" y="193" key="FileChooserDialogImpl/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691054349" />
     <state x="420" y="466" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1586498580014" />
-    <state width="1632" height="210" key="GridCell.Tab.0.bottom" timestamp="1587115989880">
+    <state width="1632" height="297" key="GridCell.Tab.0.bottom" timestamp="1587346575229">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="210" key="GridCell.Tab.0.bottom/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989880" />
-    <state width="1632" height="209" key="GridCell.Tab.0.bottom/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1632" height="297" key="GridCell.Tab.0.bottom/0.0.1676.913@0.0.1676.913" timestamp="1587346575229" />
     <state width="1397" height="619" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1632" height="210" key="GridCell.Tab.0.center" timestamp="1587115989879">
+    <state width="1632" height="297" key="GridCell.Tab.0.center" timestamp="1587346575229">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="210" key="GridCell.Tab.0.center/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989879" />
-    <state width="1632" height="209" key="GridCell.Tab.0.center/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1632" height="297" key="GridCell.Tab.0.center/0.0.1676.913@0.0.1676.913" timestamp="1587346575229" />
     <state width="1397" height="619" key="GridCell.Tab.0.center/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1632" height="210" key="GridCell.Tab.0.left" timestamp="1587115989879">
+    <state width="1632" height="297" key="GridCell.Tab.0.left" timestamp="1587346575229">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="210" key="GridCell.Tab.0.left/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989879" />
-    <state width="1632" height="209" key="GridCell.Tab.0.left/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1632" height="297" key="GridCell.Tab.0.left/0.0.1676.913@0.0.1676.913" timestamp="1587346575229" />
     <state width="1397" height="619" key="GridCell.Tab.0.left/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1632" height="210" key="GridCell.Tab.0.right" timestamp="1587115989879">
+    <state width="1632" height="297" key="GridCell.Tab.0.right" timestamp="1587346575229">
       <screen x="0" y="0" width="1676" height="913" />
     </state>
     <state width="1213" height="163" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@-1440.0.1257.755" timestamp="1586585541835" />
     <state width="1632" height="210" key="GridCell.Tab.0.right/0.0.1676.913/-1440.0.1257.755@0.0.1676.913" timestamp="1587115989879" />
-    <state width="1632" height="209" key="GridCell.Tab.0.right/0.0.1676.913@0.0.1676.913" timestamp="1586765983420" />
+    <state width="1632" height="297" key="GridCell.Tab.0.right/0.0.1676.913@0.0.1676.913" timestamp="1587346575229" />
     <state width="1397" height="619" key="GridCell.Tab.0.right/0.0.2560.1410/-1440.-568.1440.2530@-1440.-568.1440.2530" timestamp="1586691026812" />
     <state width="2517" height="619" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1586692410741" />
-    <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1586513284177">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state width="1632" height="297" key="GridCell.Tab.1.bottom" timestamp="1587346575230">
+      <screen x="0" y="0" width="1676" height="913" />
     </state>
+    <state width="1632" height="297" key="GridCell.Tab.1.bottom/0.0.1676.913@0.0.1676.913" timestamp="1587346575230" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1586513284177" />
-    <state width="1234" height="492" key="GridCell.Tab.1.center" timestamp="1586513284177">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state width="1632" height="297" key="GridCell.Tab.1.center" timestamp="1587346575230">
+      <screen x="0" y="0" width="1676" height="913" />
     </state>
+    <state width="1632" height="297" key="GridCell.Tab.1.center/0.0.1676.913@0.0.1676.913" timestamp="1587346575230" />
     <state width="1234" height="492" key="GridCell.Tab.1.center/0.0.2560.1410@0.0.2560.1410" timestamp="1586513284177" />
-    <state width="1234" height="492" key="GridCell.Tab.1.left" timestamp="1586513284177">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state width="1632" height="297" key="GridCell.Tab.1.left" timestamp="1587346575230">
+      <screen x="0" y="0" width="1676" height="913" />
     </state>
+    <state width="1632" height="297" key="GridCell.Tab.1.left/0.0.1676.913@0.0.1676.913" timestamp="1587346575230" />
     <state width="1234" height="492" key="GridCell.Tab.1.left/0.0.2560.1410@0.0.2560.1410" timestamp="1586513284177" />
-    <state width="1234" height="492" key="GridCell.Tab.1.right" timestamp="1586513284177">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state width="1632" height="297" key="GridCell.Tab.1.right" timestamp="1587346575230">
+      <screen x="0" y="0" width="1676" height="913" />
     </state>
+    <state width="1632" height="297" key="GridCell.Tab.1.right/0.0.1676.913@0.0.1676.913" timestamp="1587346575230" />
     <state width="1234" height="492" key="GridCell.Tab.1.right/0.0.2560.1410@0.0.2560.1410" timestamp="1586513284177" />
     <state x="45" y="30" key="SettingsEditor" timestamp="1586747230085">
       <screen x="0" y="0" width="1676" height="913" />

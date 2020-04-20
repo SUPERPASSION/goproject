@@ -9,7 +9,7 @@ func main() {
 	var student_total int
 	fmt.Printf("请输入班级数：")
 	fmt.Scanln(&class_total)
-	fmt.Printf("请输入学生数：")
+	fmt.Printf("请输入学生数："
 	fmt.Scanln(&student_total)
 	var nianji_sum float64
 	for class := 1; class <= class_total; class++ {
