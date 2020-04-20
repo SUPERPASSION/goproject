@@ -4,7 +4,7 @@ package main
 //	i:=0
 //	for {
 //		if i == 10{
-//			break
+//			100p
 //		}
 //		fmt.Printf("hw\n")
 //		i++
